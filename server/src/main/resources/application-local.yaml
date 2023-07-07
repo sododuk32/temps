@@ -13,7 +13,7 @@ spring:
 #    password: 'xcz119'
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://testdbms.cwhwqtlljfje.ap-northeast-2.rds.amazonaws.com:3306/testdbms?serverTimezone=Asia/Seoul
+    url: jdbc:mysql://database-1.cwhwqtlljfje.ap-northeast-2.rds.amazonaws.com:3306/database-1?serverTimezone=Asia/Seoul
     username: admin
     password: 'rhkreodid'
   vonage:
